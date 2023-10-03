@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\renkayarlamaorn\renkayarlamaorn\bin\Debug\renkayarlamaorn.exe.config
+C:\Users\User\source\repos\renkayarlamaorn\renkayarlamaorn\bin\Debug\renkayarlamaorn.exe
+C:\Users\User\source\repos\renkayarlamaorn\renkayarlamaorn\bin\Debug\renkayarlamaorn.pdb
+C:\Users\User\source\repos\renkayarlamaorn\renkayarlamaorn\obj\Debug\renkayarlamaorn.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\renkayarlamaorn\renkayarlamaorn\obj\Debug\renkayarlamaorn.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\renkayarlamaorn\renkayarlamaorn\obj\Debug\renkayarlamaorn.Form1.resources
+C:\Users\User\source\repos\renkayarlamaorn\renkayarlamaorn\obj\Debug\renkayarlamaorn.Properties.Resources.resources
+C:\Users\User\source\repos\renkayarlamaorn\renkayarlamaorn\obj\Debug\renkayarlamaorn.csproj.GenerateResource.cache
+C:\Users\User\source\repos\renkayarlamaorn\renkayarlamaorn\obj\Debug\renkayarlamaorn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\renkayarlamaorn\renkayarlamaorn\obj\Debug\renkayarlamaorn.exe
+C:\Users\User\source\repos\renkayarlamaorn\renkayarlamaorn\obj\Debug\renkayarlamaorn.pdb
